@@ -1,4 +1,5 @@
-<h1 align="center">Hi https://link-to-your-gif.gif, I'm Harsh</h1>
+<h1 align="center">Hi <img src="https://link-to-your-gif.gif" alt="Waving Hand" width="200" height="200">
+, I'm Harsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Crypto Currency Project**
