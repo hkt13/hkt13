@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Crypto Currency Project**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hkt13](https://github.com/hkt13)
 
